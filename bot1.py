@@ -6,7 +6,7 @@ from threading import Thread
 
 loop = asyncio.new_event_loop()
 
-TOKEN = "7758619230:AAEY6G0uIanl_Hpn0_YegCJI7DE8h-M44cs"
+TOKEN = "7947479058:AAGdfpOcUXwTusFt7ULgAgLbbslrc3E6v5M"
 FORWARD_CHANNEL_ID = -4705980119
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
